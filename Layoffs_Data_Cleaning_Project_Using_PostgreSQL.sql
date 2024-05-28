@@ -190,4 +190,5 @@ Select * from layoffs_staging2;
 
 
 
+
  
